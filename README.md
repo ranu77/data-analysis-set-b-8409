@@ -71,4 +71,4 @@ No rounding differences.
 Excel Google Sheets backup link: **FILL link**
 
 ## Video
-URL: [**FILL link** | Duration: **FILL mm:ss**](https://drive.google.com/file/d/1TloOEiEN5AgvWs6VVAQ2uf86CusGr6i9/view?usp=sharing)
+URL:(https://drive.google.com/file/d/1TloOEiEN5AgvWs6VVAQ2uf86CusGr6i9/view?usp=sharing)
